@@ -1,0 +1,22 @@
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 50%;
+    transform:translateY(50%);
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.pt{
+	padding-top: 165px;
+}
+.pb{
+	padding-bottom: 165px;
+}
+.px-120{
+	padding-left: 120px !important;
+	padding-right: 120px !important;
+}
